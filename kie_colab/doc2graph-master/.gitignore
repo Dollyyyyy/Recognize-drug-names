@@ -1,0 +1,23 @@
+# system
+*.egg-info/
+*__pycache__/
+*.py[cod]
+*.eggs
+build
+.vscode
+cc.*
+*.DS_Store
+
+#user-defined
+DATA
+_old
+*.env
+outputs
+FUDGE
+configs/preprocessing.yaml
+esempi
+examples
+src/models/yolov5
+src/models/checkpoints
+prova*
+inference
